@@ -1,7 +1,7 @@
 {
 	"name": "@robino/router",
 	"description": "HTTP router built on the Fetch API",
-	"version": "0.0.5",
+	"version": "0.1.0",
 	"type": "module",
 	"types": "./dist/index.d.ts",
 	"main": "./dist/index.js",

@@ -1,5 +1,11 @@
 # @robino/router
 
+## 0.1.0
+
+### Minor Changes
+
+- 062846d: trie routing
+
 ## 0.0.5
 
 ### Patch Changes
