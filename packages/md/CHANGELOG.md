@@ -1,5 +1,11 @@
 # @robino/md
 
+## 3.1.1
+
+### Patch Changes
+
+- ffc1dc3: add jsdoc comments
+
 ## 3.1.0
 
 ### Minor Changes
